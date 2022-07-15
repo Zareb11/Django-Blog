@@ -5,7 +5,7 @@ In the even that a user forgets his/her password they can obtain a new one using
 The following are images of the templates of the Web applications.
 
 The home page:
-![My Image](images/DjangoBlogHome.png)
+![My Image](images/DjangoBlogHome.PNG)
 
 Login page:
 ![My Image](images/DjangoBlog_login.png)
