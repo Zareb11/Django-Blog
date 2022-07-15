@@ -5,33 +5,33 @@ In the even that a user forgets his/her password they can obtain a new one using
 The following are images of the templates of the Web applications.
 
 The home page:
-![My Image](DjangoBlogHome.png)
+![My Image](images/DjangoBlogHome.png)
 
 Login page:
-![My Image](DjangoBlog_login.png)
+![My Image](images/DjangoBlog_login.png)
 
 
 Register page:
-![My Image](DjangoBlog_register.png)
-![My Image](DjangoBlogRegisteringUser.png)
+![My Image](images/DjangoBlog_register.png)
+![My Image](images/DjangoBlogRegisteringUser.png)
 
 Profile:
-![My Image](DjangoBlogProfile.png)
+![My Image](images/DjangoBlogProfile.png)
 
 Posting:
-![My Image](DjangoBlogNewPost.png)
-![My Image](DjangoBlogFirstPost.png)
-![My Image](DjangoBlogPostHome.png)
+![My Image](images/DjangoBlogNewPost.png)
+![My Image](images/DjangoBlogFirstPost.png)
+![My Image](images/DjangoBlogPostHome.png)
 
 Logout Page:
-![My Image](DjangoBlogLogout.png)
+![My Image](images/DjangoBlogLogout.png)
 
 Forgot Password:
-![My Image](DjangoBlog_NewPassword.png)
-![My Image](DjangoBlog_forgotpassword.png)
-![My Image](DjangoBlogPasswordSet.png)
-![My Image](DjangoBlogmyGmail.png)
-![My Image](DjangoBlogReadingEmail.png)
+![My Image](images/DjangoBlog_NewPassword.png)
+![My Image](images/DjangoBlog_forgotpassword.png)
+![My Image](images/DjangoBlogPasswordSet.png)
+![My Image](images/DjangoBlogmyGmail.png)
+![My Image](images/DjangoBlogReadingEmail.png)
 
 
 
