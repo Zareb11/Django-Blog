@@ -8,30 +8,30 @@ The home page:
 ![My Image](images/DjangoBlogHome.PNG)
 
 Login page:
-![My Image](images/DjangoBlog_login.png)
+![My Image](images/DjangoBlog_login.PNG)
 
 
 Register page:
-![My Image](images/DjangoBlog_register.png)
-![My Image](images/DjangoBlogRegisteringUser.png)
+![My Image](images/DjangoBlog_register.PNG)
+![My Image](images/DjangoBlogRegisteringUser.PNG)
 
 Profile:
-![My Image](images/DjangoBlogProfile.png)
+![My Image](images/DjangoBlogProfile.PNG)
 
 Posting:
-![My Image](images/DjangoBlogNewPost.png)
-![My Image](images/DjangoBlogFirstPost.png)
-![My Image](images/DjangoBlogPostHome.png)
+![My Image](images/DjangoBlogNewPost.PNG)
+![My Image](images/DjangoBlogFirstPost.PNG)
+![My Image](images/DjangoBlogPostHome.PNG)
 
 Logout Page:
-![My Image](images/DjangoBlogLogout.png)
+![My Image](images/DjangoBlogLogout.PNG)
 
 Forgot Password:
-![My Image](images/DjangoBlog_NewPassword.png)
-![My Image](images/DjangoBlog_forgotpassword.png)
-![My Image](images/DjangoBlogPasswordSet.png)
-![My Image](images/DjangoBlogmyGmail.png)
-![My Image](images/DjangoBlogReadingEmail.png)
+![My Image](images/DjangoBlog_NewPassword.PNG)
+![My Image](images/DjangoBlog_forgotpassword.PNG)
+![My Image](images/DjangoBlogPasswordSet.PNG)
+![My Image](images/DjangoBlogmyGmail.PNG)
+![My Image](images/DjangoBlogReadingEmail.PNG)
 
 
 
